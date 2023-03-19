@@ -14,8 +14,10 @@
 
 
 <p align="center">
+  <br>
+  <br>
 ![virgulapk GitHub stats](https://github-readme-stats.vercel.app/api?username=virgulapk&show_icons=true&theme=onedark&count_private=true)
-
+</p>
 
 ##
 <div style="display: inline_block">
