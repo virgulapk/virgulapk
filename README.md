@@ -1,6 +1,6 @@
 ## pk🖐️
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://virgulapk/)](https://)
+[![Blog](https://img.shields.io/website?label=virgulapk&style=for-the-badge&url=https://virgulapk/)](https://)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
