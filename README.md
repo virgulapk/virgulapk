@@ -5,12 +5,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com//)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1006491186875338823/1017090536861093968/04a12f46f555b3c260d00d37e69c3e7a.png">
-  <br>
-  <br>
-  <img src="https://lanyard.cnrad.dev/api/421033851851112476">
-</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/421033851851112476)](https://discord.com/users/421033851851112476)
 
 
 
