@@ -4,7 +4,7 @@
   <br>
   <br>
   <img src="https://lanyard.cnrad.dev/api/421033851851112476">
-</p>
+
 [![pk](https://img.shields.io/website?label=virgulapk&style=for-the-badge&url=https://virgulapk/)](https://.com)
  <a href="https://discord.gg/Qe7GMUbAhq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com//)
