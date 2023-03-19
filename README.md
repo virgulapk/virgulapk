@@ -1,13 +1,13 @@
-## pk🖐️
+## 🖐️pk🖐️
 
-[![Blog](https://img.shields.io/website?label=virgulapk&style=for-the-badge&url=https://virgulapk/)](https://)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/)
+[![Blog](https://img.shields.io/website?label=virgulapk&style=for-the-badge&url=https://virgulapk/)](https://.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com//)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+![virgulapk GitHub stats](https://github-readme-stats.vercel.app/api?username=virgulapk&show_icons=true&theme=dracula&count_private=true)
 
-## Tecnologias que eu uso no meu dia
+## x
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
