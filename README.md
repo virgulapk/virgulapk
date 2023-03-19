@@ -7,7 +7,7 @@
 
 
   <p align="center">
-    <img align="center" alt="html5" src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://virgulapk.com/)" />
+    <img align="center" alt="website" src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://virgulapk.com/)" />
   (https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com) 
 (https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
 (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
