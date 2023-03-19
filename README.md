@@ -1,4 +1,4 @@
-##[ <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)🖐️pk🖐️
+## <img align="center" alt="html5" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" />  🖐️pk🖐️
 <p align="center">
 
   <br>
