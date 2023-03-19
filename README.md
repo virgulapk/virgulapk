@@ -1,4 +1,4 @@
-## <img align="center" alt="html5" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" />  🖐️pk🖐️
+## <img align="center" alt="html5" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /> 
 <p align="center">
 
   <br>
