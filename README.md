@@ -1,4 +1,4 @@
-## <img align="center" alt="html5" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /> 
+## <img align="center" alt="html5" src="https://img.shields.io/badge/RS-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /> 
 <p align="center">
 
   <br>
