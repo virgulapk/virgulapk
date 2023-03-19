@@ -5,7 +5,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com//)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
-<p align="center">
+
   
   <br>
   <br>
@@ -13,11 +13,8 @@
 </p>
 
 
-<p align="center">
-  <br>
-  <br>
 ![virgulapk GitHub stats](https://github-readme-stats.vercel.app/api?username=virgulapk&show_icons=true&theme=onedark&count_private=true)
-</p>
+
 
 ##
 <div style="display: inline_block">
