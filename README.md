@@ -10,7 +10,7 @@
   ## skills 
   
 <p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/website?label=virgulapk.com&style=for-the-badge&url=https://virgulapk.com/)" width="36" height="36" alt="Javascript" /></a>
+<a href="https://virgulapk.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/website?label=virgulapk.com&style=for-the-badge&url=https://virgulapk.com/)" width="36" height="36" alt="Javascript" /></a>
   </p>
 
 [![Blog](https://img.shields.io/website?label=virgulapk.com&style=for-the-badge&url=https://virgulapk.com/)](https://virgulapk.com)
