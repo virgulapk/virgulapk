@@ -7,10 +7,10 @@
 
   
   
-  ## skills 
+## 
   
 <p align="center">
-<a (https://img.shields.io/website?label=virgulapk.com&style=for-the-badge&url=https://virgulapk.com/)](https://virgulapk.com)  /></a>
+
   </p>
 
 [![Blog](https://img.shields.io/website?label=virgulapk.com&style=for-the-badge&url=https://virgulapk.com/)](https://virgulapk.com)
