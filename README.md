@@ -4,14 +4,6 @@
   <br>
   <br>
   <img src="https://lanyard.cnrad.dev/api/421033851851112476">
-
-  
-  
-## 
-<p align="center"> 
-  <a href="https://discord.com/users/421033851851112476" target="_blank" rel="noreferrer"><img src="https://img.shields.io/website?label=virgulapk.com&style=for-the-badge&url=https://virgulapk.com/" width="32" height="32" /></a>
-  <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/guilhermo-masid-494677b8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13367336/guilhermo-masid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@gmasid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
 [![Blog](https://img.shields.io/website?label=virgulapk.com&style=for-the-badge&url=https://virgulapk.com/)](https://virgulapk.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com//)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
